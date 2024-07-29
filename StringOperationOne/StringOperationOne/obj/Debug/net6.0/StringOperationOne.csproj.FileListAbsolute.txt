@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\bin\Debug\net6.0\StringOperationOne.exe
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\bin\Debug\net6.0\StringOperationOne.deps.json
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\bin\Debug\net6.0\StringOperationOne.runtimeconfig.json
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\bin\Debug\net6.0\StringOperationOne.dll
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\bin\Debug\net6.0\StringOperationOne.pdb
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.dll
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\refint\StringOperationOne.dll
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.pdb
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\StringOperationOne.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Lab\StringOperationOne\StringOperationOne\obj\Debug\net6.0\ref\StringOperationOne.dll

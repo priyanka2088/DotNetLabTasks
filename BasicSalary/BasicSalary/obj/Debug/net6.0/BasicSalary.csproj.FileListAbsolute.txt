@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\bin\Debug\net6.0\BasicSalary.exe
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\bin\Debug\net6.0\BasicSalary.deps.json
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\bin\Debug\net6.0\BasicSalary.runtimeconfig.json
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\bin\Debug\net6.0\BasicSalary.dll
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\bin\Debug\net6.0\BasicSalary.pdb
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.dll
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\refint\BasicSalary.dll
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.pdb
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\BasicSalary.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Lab\BasicSalary\BasicSalary\obj\Debug\net6.0\ref\BasicSalary.dll
