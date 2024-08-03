@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStonAssessment1\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
