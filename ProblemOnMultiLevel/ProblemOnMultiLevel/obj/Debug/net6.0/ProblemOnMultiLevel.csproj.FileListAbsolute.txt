@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\bin\Debug\net6.0\ProblemOnMultiLevel.exe
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\bin\Debug\net6.0\ProblemOnMultiLevel.deps.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\bin\Debug\net6.0\ProblemOnMultiLevel.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\bin\Debug\net6.0\ProblemOnMultiLevel.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\bin\Debug\net6.0\ProblemOnMultiLevel.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\refint\ProblemOnMultiLevel.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ProblemOnMultiLevel.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\ProblemOnMultiLevel\ProblemOnMultiLevel\obj\Debug\net6.0\ref\ProblemOnMultiLevel.dll
