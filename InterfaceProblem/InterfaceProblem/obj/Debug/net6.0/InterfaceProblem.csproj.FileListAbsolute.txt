@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\bin\Debug\net6.0\InterfaceProblem.exe
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\bin\Debug\net6.0\InterfaceProblem.deps.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\bin\Debug\net6.0\InterfaceProblem.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\bin\Debug\net6.0\InterfaceProblem.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\bin\Debug\net6.0\InterfaceProblem.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\refint\InterfaceProblem.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\InterfaceProblem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\InterfaceProblem\InterfaceProblem\obj\Debug\net6.0\ref\InterfaceProblem.dll
