@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\bin\Debug\net6.0\FlightManagement.exe
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\bin\Debug\net6.0\FlightManagement.deps.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\bin\Debug\net6.0\FlightManagement.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\bin\Debug\net6.0\FlightManagement.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\bin\Debug\net6.0\FlightManagement.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\refint\FlightManagement.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\FlightManagement.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment2\FlightManagement\FlightManagement\obj\Debug\net6.0\ref\FlightManagement.dll
