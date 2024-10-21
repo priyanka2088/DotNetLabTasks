@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\bin\Debug\net6.0\PythonScriptInvokeProject.exe
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\bin\Debug\net6.0\PythonScriptInvokeProject.deps.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\bin\Debug\net6.0\PythonScriptInvokeProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\bin\Debug\net6.0\PythonScriptInvokeProject.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\bin\Debug\net6.0\PythonScriptInvokeProject.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\refint\PythonScriptInvokeProject.dll
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.pdb
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\PythonScriptInvokeProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNet Training\DotNetLabTasks\MileStoneAssessment6\PythonScriptInvokeProject\PythonScriptInvokeProject\obj\Debug\net6.0\ref\PythonScriptInvokeProject.dll
