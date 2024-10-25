@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SharePointLibraries/1.0.0": {
+        "dependencies": {
+          "Microsoft.SharePoint.Client": "14.0.4762.1000",
+          "Microsoft.SharePointOnline.CSOM": "16.1.25311.12000",
+          "Microsoft.Sharepoint.Client.Runtime": "15.0.4711.1000"
+        },
+        "runtime": {
+          "SharePointLibraries.dll": {}
+        }
+      },
+      "Microsoft.SharePoint.Client/14.0.4762.1000": {},
+      "Microsoft.Sharepoint.Client.Runtime/15.0.4711.1000": {},
+      "Microsoft.SharePointOnline.CSOM/16.1.25311.12000": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Client.Policy.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Office.Client.TranslationServices.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Office.SharePoint.Tools.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Online.SharePoint.Client.Tenant.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.ProjectServer.Client.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.DocumentManagement.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Publishing.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Runtime.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.Applications.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Taxonomy.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.UserProfiles.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.WorkflowServices.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.25311.12000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharePointLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client/14.0.4762.1000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pY+Fy+aG8bSHJYj4irmFc5Jo1mrglZGJ6MBR/aJYD75h+slmaSjj8xtBH82WLWH+gXghvZY7RDvZgJbPx1w+EQ==",
+      "path": "microsoft.sharepoint.client/14.0.4762.1000",
+      "hashPath": "microsoft.sharepoint.client.14.0.4762.1000.nupkg.sha512"
+    },
+    "Microsoft.Sharepoint.Client.Runtime/15.0.4711.1000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B+zs18nKnnPrCBYuUV8k0+2WxLEtbtmrxK3CD4/cg0cT/JhkywLjgEOjKK1sKTLv1piGc0gMNdeqaCabAjkE5A==",
+      "path": "microsoft.sharepoint.client.runtime/15.0.4711.1000",
+      "hashPath": "microsoft.sharepoint.client.runtime.15.0.4711.1000.nupkg.sha512"
+    },
+    "Microsoft.SharePointOnline.CSOM/16.1.25311.12000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+3+8HfzpqygA4rW2A7NVzxEwEbekBHI/RA2Y+BcP6/oY1JVjYIayIT7qSdgBx00lM0QJVWaDtUU0+JI7Of+daQ==",
+      "path": "microsoft.sharepointonline.csom/16.1.25311.12000",
+      "hashPath": "microsoft.sharepointonline.csom.16.1.25311.12000.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIk3J3aNpv9nqBt3WpqH1/3xFapGrMoObV2bLlkOLVzTeF42obUm60oVD8hE7cmkvgIbfslCBnFZuMO3gowkRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNet Training\\DotNetLabTasks\\MileStoneAssessment7\\O365Integration\\MSOutlookInterOp\\MSOutlookInterOp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}

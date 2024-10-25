@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0wZ9HucN/NZjBUyxV2NDrTvwd+NS8ULOUx401UYTNvtanrPIdzbbBK1xnukF+vDgHvq95nq6p3R6PUoOZBnHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNet Training\\DotNetLabTasks\\MileStoneAssessment7\\O365Integration\\SharePointLibraries\\SharePointLibraries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sharepoint.client\\14.0.4762.1000\\microsoft.sharepoint.client.14.0.4762.1000.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sharepoint.client.runtime\\15.0.4711.1000\\microsoft.sharepoint.client.runtime.15.0.4711.1000.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.25311.12000\\microsoft.sharepointonline.csom.16.1.25311.12000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.SharePoint.Client 14.0.4762.1000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.SharePoint.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

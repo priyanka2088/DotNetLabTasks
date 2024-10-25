@@ -1,0 +1,5 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointListRetriever\obj\Debug\net6.0\SharePointListRetriever.csproj.AssemblyReference.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointListRetriever\obj\Debug\net6.0\SharePointListRetriever.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointListRetriever\obj\Debug\net6.0\SharePointListRetriever.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointListRetriever\obj\Debug\net6.0\SharePointListRetriever.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointListRetriever\obj\Debug\net6.0\SharePointListRetriever.csproj.CoreCompileInputs.cache
